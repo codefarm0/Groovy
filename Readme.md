@@ -1,13 +1,21 @@
 ## Table of contents to be covered under apache groovy tutorial
 
 * Overview and environment setup
-https://www.youtube.com/watch?v=6N2NmHif08E
+https://www.youtube.com/watch?v=6N2NmHif08E	
 * Execute program from command line
 https://www.youtube.com/watch?v=4L9WVlG-pXY
 * Groovy shell and groovy console
 https://www.youtube.com/watch?v=6N2NmHif08E
 * Hello world program and script
-* Groovy Variables
+https://www.youtube.com/watch?v=4L9WVlG-pXY
+* Groovy Comments
+* Groovy keywords
+
+     as, assert, break,  case,  catch,   class,   const,   continue,   def,   default,    do,   else,   enum,   
+     extends  false finally for  goto, if, implements, import, in, instanceof, interface, new, null, package,
+     return, super, switch, this, throw, throws, trait,  true, try, while
+
+* Groovy Identifiers
 * Groovy Operators
 * Groovy Datatype
 * Groovy Methods
