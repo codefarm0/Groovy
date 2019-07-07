@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=4L9WVlG-pXY
            as, assert, break,  case,  catch,   class,   const,   continue,   def,   default,    do,   else,   enum,   
            extends,  false, finally, for,  goto, if, implements, import, in, instanceof, interface, new, null, package,
            return, super, switch, this, throw, throws, trait,  true, try, while
+* Groovy variables
 
 * Groovy Identifiers
 * Groovy Operators
