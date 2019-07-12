@@ -8,17 +8,20 @@ https://www.youtube.com/watch?v=4L9WVlG-pXY
 https://www.youtube.com/watch?v=6N2NmHif08E
 * Hello world program and script
 https://www.youtube.com/watch?v=4L9WVlG-pXY
-* Groovy Comments
+* Groovy Comments https://youtu.be/8kdvcuKPzfU
 * Groovy keywords
 
            as, assert, break,  case,  catch,   class,   const,   continue,   def,   default,    do,   else,   enum,   
            extends,  false, finally, for,  goto, if, implements, import, in, instanceof, interface, new, null, package,
            return, super, switch, this, throw, throws, trait,  true, try, while
-* Groovy variables
-
-* Groovy Identifiers
+* Groovy variables https://youtu.be/8kdvcuKPzfU
+* Groovy Identifiers https://youtu.be/8kdvcuKPzfU
+* Groovy Datatype https://youtu.be/8kdvcuKPzfU
+* Groovy def (keyword) 
+	* def with variables
+	* def with function/method
+	* You tube video for same - https://www.youtube.com/watch?v=zVEUbENVoyU
 * Groovy Operators
-* Groovy Datatype
 * Groovy Methods
 * Groovy Optionals
 * Groovy String
